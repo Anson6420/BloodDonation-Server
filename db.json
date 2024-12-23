@@ -1,0 +1,42 @@
+{
+  "RegisteredDetails": [
+    {
+      "id": "ef6e",
+      "name": "Anson Nelson",
+      "age": "22",
+      "bloodGroup": "A-",
+      "location": "Vallachira",
+      "contact": "1234566890"
+    },
+    {
+      "id": "4991",
+      "name": "Aswin G Nair",
+      "age": "23",
+      "bloodGroup": "B+",
+      "location": "Alappuzha",
+      "contact": "3748374993"
+    }
+  ],
+  "DonatedDetails": [
+    {
+      "name": "Aswin G Nair",
+      "age": "23",
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "contact": "3456678790",
+      "donationDate": "2024-12-03",
+      "location": "Alappuzha",
+      "id": "1"
+    },
+    {
+      "id": "c99b",
+      "name": "Anson Nelson",
+      "age": "22",
+      "gender": "Male",
+      "bloodGroup": "B+",
+      "contact": "1234566890",
+      "donationDate": "2002-04-06",
+      "location": "Thrissur"
+    }
+  ]
+}
